@@ -6,3 +6,7 @@
 
 # clone project
 git clone https://github.com/JusticeFrancis/music-app
+
+
+# hire me
+https://techkrab.me
